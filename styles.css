@@ -1,0 +1,6 @@
+* { color:grey}
+.alert-text {   color: red; }
+#title { background-color: blue; color:white }
+.subsection.header { color: red; }
+.subsection { color: green; }
+div {     color: white;     background-color: black;   }
